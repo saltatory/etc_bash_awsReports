@@ -1,4 +1,4 @@
-= AWS Reports
+# AWS Reports
 
 Simple scripts to generate interesting reports using the AWS command line.
 
